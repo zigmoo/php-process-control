@@ -1,6 +1,5 @@
 # php-process-control
-A PHP process control system for launching and monitoring continuously running workers
-(This code was written in 2011, it's not really useful anymore.)
+A PHP process control system for launching and monitoring continuously running workers.
 
 Uses MongoDb for registering processes
 
