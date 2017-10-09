@@ -1,7 +1,7 @@
 # php-process-control
 A PHP process control system for launching and monitoring continuously running workers.
 
-Uses MongoDb for registering processes
+Migrating from original Mongo to PDO/MySQL.
 
 To get started use the worker sample as a template for your workers.
 Register the workers in the config.php file, and how many instances you want to run.
